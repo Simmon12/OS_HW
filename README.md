@@ -1,3 +1,6 @@
+###  Pintos 系统
+Pintos is simple operating system framework for the 80x86 architecture. It supports kernel threads, loading and running user programs, and a file system. but it implements all of these in a very simple way.  In the Pintos projects, you and your project team will strengthen its support in all three of these areas. You will also add a virtual memory implementation.
+
 #### HW1 
   * 通过修改pintos的线程休眠函数来保证pintos不会再一个线程休眠时忙等待
   * 通过修改pintos排队的方式来使得所有线程按优先级正确地被唤醒
